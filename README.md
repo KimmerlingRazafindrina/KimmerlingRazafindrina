@@ -1,3 +1,4 @@
+- Hi there!
 - 🔭 I’m currently a trainee at sayna with d-clic program, so I am still a learner not a professional. 
 - 🌱 I’m currently learning about digital technology, I am not a developper but I am interested in digital marketing and wordpress. 
 - 👯 I’m looking to get some knowledge in digital technology such as community management, SEO/SEA, Web development, social media management and wordpress.
